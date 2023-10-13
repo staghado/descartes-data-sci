@@ -46,9 +46,22 @@ The target for this project is `ignition`
 
 ## Submission
 
-The solution to this test (the source code, the test code and the notebook with its outputs) should be saved on a private descartes-data-sci repository on your github account.
+If something is not clear, you can ask questions to the recruiter.
 
-Access should be granted to:
+When submitting your project, your version should **not be draft** but complete and following best practices.
+
+The solution should be saved on a **private** `descartes-data-sci` repository on your github account.
+
+The solution should include:
+
+- source code
+- test code
+- notebooks **with outputs**
+
+When the final version is ready:
+
+1. Send an email to the recruiter indicating that you finished the project and sharing the url of the project
+2. Grant access to:
 
 - <https://github.com/SanaNABLI>
 - <https://github.com/ClotildeLange>
