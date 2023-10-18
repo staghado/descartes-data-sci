@@ -51,7 +51,7 @@ The solution to this test (the source code, the test code and the notebook with 
 Access should be granted to:
 
 - <https://github.com/SanaNABLI>
-- <https://github.com/AudreySolaimana>
+- <https://github.com/ClotildeLange>
 
 Notebooks should be saved with outputs.
 
