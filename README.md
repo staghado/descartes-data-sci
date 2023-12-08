@@ -53,9 +53,6 @@ When submitting your project, your version should **not be draft** but complete 
 The solution should be saved on a **private** `descartes-data-sci` repository on your github account.
 
 The solution should include:
-
-- source code
-- test code
 - notebooks **with outputs**
 
 When the final version is ready:
@@ -65,8 +62,6 @@ When the final version is ready:
 
 - <https://github.com/SanaNABLI>
 - <https://github.com/ClotildeLange>
-
-Notebooks should be saved with outputs.
 
 ## Duration
 
